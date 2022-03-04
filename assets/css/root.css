@@ -1,0 +1,40 @@
+:root{
+    /* Color */
+    --color-background-1: rgb(204, 255, 255);
+    --color-background-2: rgb(255, 255, 255);
+    --color-header-footer: rgb(154, 153, 255);
+    --color-black: #000;
+    --color-white: #fff;
+    --navbar-color-hover-1:#f9f9f9;
+    --navbar-color-hover-2:#f1f1f1;
+    --color-grey:rgb(217, 217, 217);;
+    --color-btn-social: rgb(223, 84, 79);
+    --color-btn-sub: rgb(131,174, 109);
+    /* Responsive 614px */
+    --padding-header-614: 20px 0 20px 80px;
+    --padding-bloc-li-614: 0 80px 30px 80px;
+    --padding-slidebg-color-614: 30px 80px 30px 80px;
+    --padding-containerbg-color-614: 40px 80px 20px 80px;
+    --padding-title-destination-614: 0 50px 10px 80px;
+    --padding-country-614: 20px 50px 20px 80px;
+    --padding-padding-resp-614: 10px 50px 10px 80px;
+    --padding-awh-p_-614: 10px 50px 20px 80px;
+    --padding-btn-sub-res-614: 10px 50px 0 80px;
+    --padding-_footer_-614: 50px 50px 50px 80px;
+    /* Responsive 847px */
+    --padding-header-847: 20px 0 20px 50px;
+    --padding-bloc-li-847: 0 50px 30px 50px;
+    --padding-slidebg-color-847: 30px 50px 30px 50px;
+    --padding-containerbg-color-847: 40px 50px 20px 50px;
+    --padding-title-destination-847: 0 50px 10px 50px;
+    --padding-flags-847: 10px 50px 10px 50px;
+    --padding-country-847: 20px 50px 20px 50px;
+    --padding-_footer_-847: 20px 50px 50px 50px;
+    /* Responsive 1663px */
+    --padding-header-1663: 20px 0 20px 250px;
+    --padding-containerbg-color-1663: 40px 250px 20px 250px;
+    --padding-title-destination-1663: 0 250px 10px 250px;
+    --padding-flags-1663: 10px 250px 10px 250px;
+    --padding-country-1663: 20px 250px 20px 250px;
+    --padding-_footer_-1663: 20px 250px 50px 250px;
+}
